@@ -1,0 +1,2 @@
+# # **Machine learning project** || **House Prices - Advanced Regression Techniques**
+ This report presents a comprehensive analysis of a sales dataset, encompassing exploratory data analysis (EDA), data cleaning, feature engineering, regression modeling, ensembling techniques, and evaluation of results. The objective is to extract valuable insights, optimize sales strategies, and provide a detailed assessment of the approaches employed. The report also highlights surprising discoveries made during the analysis and outlines potential avenues for future work.
